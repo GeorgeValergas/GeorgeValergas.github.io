@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://GeorgeValergas.github.io/sitemap.xml 
