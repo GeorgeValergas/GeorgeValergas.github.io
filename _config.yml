@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            George's Web log ...of sorts
+description:      Sam is snoring.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              
@@ -11,9 +11,9 @@ owner:
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          gvalergas@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        gvalergasMTL
   facebook:       
-  github:         
+  github:         GeorgeValergas
   stackexchange:  
   linkedin:       
   instagram:      
