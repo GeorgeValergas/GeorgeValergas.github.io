@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">George's Web log ...of sorts</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-01-14T09:33:50+00:00</updated>
+<id>/</id>
+<author>
+  <name>George Valergas</name>
+  <uri>/</uri>
+  <email>gvalergas@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[New Years Resolution]]></title>
+  <link>/Another-Late-Post</link>
+  <id>/Another-Late-Post</id>
+  <published>2014-01-14T00:00:00+00:00</published>
+  <updated>2014-01-14T00:00:00+00:00</updated>
+  <author>
+    <name>George Valergas</name>
+    <uri></uri>
+    <email>gvalergas@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;my-resoltion-this-year&quot;&gt;My Resoltion This Year…&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;2560-by-1600&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Yup, &lt;strong&gt;retina&lt;/strong&gt;.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/Another-Late-Post&quot;&gt;New Years Resolution&lt;/a&gt; was originally published by George Valergas at &lt;a href=&quot;&quot;&gt;George's Web log ...of sorts&lt;/a&gt; on January 14, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Nothing After 2]]></title>
+  <link>/Nothing-after-2</link>
+  <id>/Nothing-after-2</id>
+  <published>2014-01-11T00:00:00+00:00</published>
+  <updated>2014-01-11T00:00:00+00:00</updated>
+  <author>
+    <name>George Valergas</name>
+    <uri></uri>
+    <email>gvalergas@gmail.com</email>
+  </author>
+  <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Nothing good happens after 2AM&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A wise man once said this &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That is not to say that worthless events occur after this time, just that they are not &lt;em&gt;good&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/Nothing-after-2&quot;&gt;Nothing After 2&lt;/a&gt; was originally published by George Valergas at &lt;a href=&quot;&quot;&gt;George's Web log ...of sorts&lt;/a&gt; on January 11, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
