@@ -8,5 +8,5 @@ tags:
 
 > 2560-by-1600
 
-Yup, **retina**.
+Aw yiss, **retina**.
 
